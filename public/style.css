@@ -1,0 +1,51 @@
+.wholebox {
+  width:400px;
+  background-color: #335577;
+  height: 100px;
+  color: #6699CC;
+  padding: 1px 5px 0px 10px;
+}
+
+
+.whitetext {
+  color: #FFFFFF;
+  margin-bottom: 4px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+  color:#6699CC;
+}
+
+.inputfield {
+  width: 150px;
+  height: 20px;
+  border: 1px solid;
+  border-color: black;
+  margin-bottom: 10px;
+}
+
+.password {
+  float: left;
+  padding-left: 10px;
+}
+
+.emailform {
+  float: left;
+}
+
+.submit {
+  margin-top: 40px;
+  float: left;
+  margin-left: 20px;
+  
+}
+
+.loginbutton {
+  color: #FFFFFF;
+  background-color: #6699CC;
+}
