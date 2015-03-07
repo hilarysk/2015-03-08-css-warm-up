@@ -49,3 +49,76 @@ a:visited {
   color: #FFFFFF;
   background-color: #6699CC;
 }
+
+.container {
+  width: 690px;
+  height: 310px;
+  border-bottom: 1px solid;
+  
+}
+
+.columnside {
+  width: 210px;
+  margin-top: 5px;
+  float: left;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.columnmiddle {
+  width: 210px;
+  margin-top: 5px;
+  float: left;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-color: #D8D8D8;
+}
+
+.text a:link {
+  text-decoration: none;
+}
+
+.text a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+
+.text a:hover {
+  text-decoration: underline;
+}
+
+.margin {
+  margin:0;
+  padding:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
